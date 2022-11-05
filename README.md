@@ -24,5 +24,9 @@ presses a certain key. Likewise, the demons and Navec can cause damage to the pl
 will also have to move around trees (they don’t cause any damage like the walls in Level 0).
 Like in Level 0, the game will end if the player’s health reduces to 0 or less.
 
-![Level1](https://user-images.githubusercontent.com/86769577/200115615-d30cc7c2-c44c-4d33-99bc-19140773df47.JPG)
+
 ![Level0](https://user-images.githubusercontent.com/86769577/200115618-69a91d01-2661-452c-b6f1-db8af9327391.JPG)
+
+
+![Level1](https://user-images.githubusercontent.com/86769577/200115615-d30cc7c2-c44c-4d33-99bc-19140773df47.JPG)
+
