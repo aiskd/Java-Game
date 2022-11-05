@@ -25,8 +25,11 @@ will also have to move around trees (they don’t cause any damage like the wall
 Like in Level 0, the game will end if the player’s health reduces to 0 or less.
 
 
+## Level 0
 ![Level0](https://user-images.githubusercontent.com/86769577/200115618-69a91d01-2661-452c-b6f1-db8af9327391.JPG)
 
 
+
+## Level 1
 ![Level1](https://user-images.githubusercontent.com/86769577/200115615-d30cc7c2-c44c-4d33-99bc-19140773df47.JPG)
 
