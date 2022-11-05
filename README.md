@@ -41,3 +41,8 @@ Like in Level 0, the game will end if the player’s health reduces to 0 or less
 > Defeat Navec to win!
 > Press A to attack the demons and Navec!
 
+## Gameplay
+
+https://user-images.githubusercontent.com/86769577/200146882-ed71ff69-5cc6-474d-9867-da0717ee93d1.mp4
+
+
