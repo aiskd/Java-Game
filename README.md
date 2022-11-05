@@ -1,5 +1,3 @@
-# Shadow-Dimension
-
 “A dark evil has arrived in your hometown. A group of government scientists have opened a gate in
 their laboratory to another dimension called the Over Under. The Over Under is ruled by Navec
 (an evil creature of immense power) and his henchmen are called demons. The scientists thought
