@@ -12,8 +12,6 @@ import java.util.ArrayList;
 import static bagel.Window.getWidth;
 
 /**
- * Skeleton Code for SWEN20003 Project 2, Semester 2, 2022
- *
  * Please enter your name below
  * Aurelia Iskandar
  */
